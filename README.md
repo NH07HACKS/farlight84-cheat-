@@ -4,10 +4,6 @@
 This project is a C++ internal cheat for **Farlight 84** built using DirectX 11 and ImGui.  
 It provides an SDK-based framework that makes it easier to implement ESP, aimbot, and other features.
 
-## Screenshots
-![Screenshot 1](https://postimg.cc/ph7nQBzS)
-![Screenshot 2](https://postimg.cc/hfRXSvrV)
-
 ## Demo Video
 [Watch Demo on YouTube](https://youtu.be/KOfa24BovX0?si=CRBbmCyu6JpgDxPl)
 
