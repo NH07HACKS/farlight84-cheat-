@@ -7,6 +7,14 @@ It provides an SDK-based framework that makes it easier to implement ESP, aimbot
 ## Demo Video
 [Watch Demo on YouTube](https://youtu.be/KOfa24BovX0?si=CRBbmCyu6JpgDxPl)
 
+## Demo Screenshots
+Here are some screenshots of the cheat in action:
+
+![1](1.png)
+![2](2.png)
+![3](3.png)
+![4](4.png)
+
 ## Setup
 1. Use **Dumper7** to dump the game and generate the latest SDK.
 2. Add the generated SDK into the `CppSDK` folder of this project.
