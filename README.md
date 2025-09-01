@@ -1,4 +1,5 @@
-# farlight84-cheat-
+# farlight84-cheat
+
 
 ## Overview
 This project is a C++ internal cheat for **Farlight 84** built using DirectX 11 and ImGui.  
